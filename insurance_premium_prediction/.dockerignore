@@ -1,0 +1,25 @@
+# Python cache and virtual envs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+
+# VSCode and system files
+.vscode/
+.DS_Store
+
+# Git and env files
+.git/
+.env
